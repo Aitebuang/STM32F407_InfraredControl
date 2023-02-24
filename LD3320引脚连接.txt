@@ -1,0 +1,16 @@
+ * 接线说明
+ * RST      PB6
+ * CS   	PB8            
+ * WR/SPIS  PB9  
+ * P2/SDCK  PB3
+ * P1/SDO   PB4
+ * P0/SDI   PB5
+ * IRQ      PC1
+ * A0	PB7
+ * RD       PA0
+补充：MD   PB0
+
+ * RST      PB6
+ * WR/SPIS  PB9
+ * CS   	PB8  
+ * IRQ      PC1
